@@ -1,0 +1,27 @@
+{
+  "name": "node-public-mpd",
+  "version": "0.0.0",
+  "homepage": "https://github.com/JumpLink/node-public-mpd",
+  "authors": [
+    "bysom <mail@bysom.org>"
+  ],
+  "description": "Jukebox für mpd mit Voting-Funktion",
+  "main": "public/stylesheets/style.css",
+  "keywords": [
+    "mpd",
+    "nodejs",
+    "toll",
+    "Jukebox"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.0.0"
+  }
+}
